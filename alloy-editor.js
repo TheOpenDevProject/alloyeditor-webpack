@@ -1,3 +1,3 @@
 'use strict';
-const AlloyEditor = require('../alloyeditor/dist/alloy-editor/alloy-editor-all.js');
+const AlloyEditor = require('../alloyeditor/dist/alloy-editor/alloy-editor-no-react.js');
 module.exports = AlloyEditor;
